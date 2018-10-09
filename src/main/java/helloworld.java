@@ -10,6 +10,6 @@ public class helloworld {
         //hej ho hej ho test 2 lalala
         System.out.println("Hello, people");
 
-        System.out.println("Testing Branch");
+        System.out.println("Testing Branches");
     }
 }
