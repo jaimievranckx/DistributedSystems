@@ -9,6 +9,7 @@ public class helloworld {
 =======
         //hej ho hej ho test 2 lalala
         //push via intellij lol
+        // merge testbranch
         System.out.println("Hello, people");
 >>>>>>> 7a613ae4d34d6bdcb6d7be7ccb29db71d87c65c2
     }
